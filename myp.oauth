@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>myp</name>
+  <serviceProvider>Google</serviceProvider>
+  <consumerKey>265248215038-emamas2mi3g3pu63rmsbpari2b3136ru.apps.googleusercontent.com</consumerKey>
+  <consumerSecret>DcOIeuyLrwxLmfqn1FRuEl5Xx3keWtHLrtiEsKRfK4cnNQ/9E9Hxe33JUMTR7I9Te3Caa5RUOMwwd7WpZzCQ3K9bmxeZ5mxxtGmd1iqJQfKRb7HTkiRsoRkrfY+0Q0ouVoMkUCVw61dF9NQwBPZFIVB7t2ZwcwiMCV3wY7v0ywM=:Qars3pyw9ye1XEHt:ozvIUFdwAeQlcfnQFopWDZS+jGIxDtnjOAQzuzed/v9cNtNorcrKkoFIBfLntyHyZa2s</consumerSecret>
+  <callbackURL>http://localhost:8082/ManagementConsole/OAuthCallback</callbackURL>
+  <scope>offline.access</scope>
+  <project id="2"/>
+  <modifiedBy>admin</modifiedBy>
+  <revisionNumber>local</revisionNumber>
+  <commitMessage>commit</commitMessage>
+  <lastModified id="3">2026-07-17 15:37:05.72 UTC</lastModified>
+  <serializationVersion>1</serializationVersion>
+</oauthApplication>
