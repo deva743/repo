@@ -32,7 +32,7 @@
       <property name="initialAssignment" class="InitialVariableAssignment">
         <property name="type" class="TypeReference" serializationversion="0">
           <property name="typeName" class="String">t1</property>
-        </property>
+  
       </property>
     </object>
   </property>
