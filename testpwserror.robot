@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"
 <object class="Robot" serializationversion="2">
   <prologue>
     <saved-by-versions>
@@ -32,7 +32,7 @@
       <property name="initialAssignment" class="InitialVariableAssignment">
         <property name="type" class="TypeReference" serializationversion="0">
           <property name="typeName" class="String">t1</property>
-  
+        </property>
       </property>
     </object>
   </property>
@@ -149,3 +149,4 @@
     </edges>
   </property>
   <property name="browserConfigurationSpecification" class="BrowserConfigurationSpecificationWebKit" serializationversion="27"/>
+</object>
